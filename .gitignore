@@ -1,0 +1,2 @@
+echo "credentials/credentials.json" >> .gitignore
+
